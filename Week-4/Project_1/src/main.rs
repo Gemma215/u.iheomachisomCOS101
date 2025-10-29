@@ -27,7 +27,7 @@ println!("\nDiscriminant = {}",discriminant);
 
 if discriminant > 0.0 {
     let root1 = (-b + discriminant.sqrt()) /(2.0 * a);
-    let root2 = (-b - discriminant.sqrt()) /(2.0 * a);
+    let root2cargo struct ; = (-b - discriminant.sqrt()) /(2.0 * a);
     println!("Two distinct real roots:");
     println!("Root 1 = {}", root1);
     println!("Root 2 = {}", root2);
